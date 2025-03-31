@@ -1,0 +1,4 @@
+azure-storage-blob == 12.25.0
+pandas == 2.2.3
+azure-ai-documentintelligence
+langchain
